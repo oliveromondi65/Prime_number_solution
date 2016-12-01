@@ -1,5 +1,5 @@
 def Fabonacci(arg): 
-    for x in range (arg):
+    for x in range (arg): #taking values from 0 to arg
     	if arg == 0:
     		return 0
     
